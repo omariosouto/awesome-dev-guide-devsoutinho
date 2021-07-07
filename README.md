@@ -27,3 +27,8 @@ Ter um concatenado de conteúdos pra quem quer começar com JavaScript
     - Fetch
         - [Como pegar dados de uma API? Como fazer AJAX ou "AJAJ"! | Pegando dados de serviços via JavaScript](https://www.youtube.com/watch?v=85vJXFpXLQw)  
 - Async/Await
+
+
+## NextJS Essentials 
+
+- ...
