@@ -9,6 +9,8 @@ Ter um concatenado de conteúdos pra quem quer começar com JavaScript
     - var, let e const
     - Destructuring
         - Arrays e Objetos
+            - [Qual a diferença entre forEach e map?](https://www.youtube.com/watch?v=JbzcLKiTThk&t=1s) 
+            - [Minhas top 3 features favoritas do JavaScript](https://www.youtube.com/watch?v=0-Gtl8nAw3c&t=1s)
 - Statements do JavaScript
     - If, For, While
 - Trabalhando com Expressões
@@ -23,4 +25,5 @@ Ter um concatenado de conteúdos pra quem quer começar com JavaScript
     - Retorno de função
 - Promises 
     - Fetch
+        - [Como pegar dados de uma API? Como fazer AJAX ou "AJAJ"! | Pegando dados de serviços via JavaScript](https://www.youtube.com/watch?v=85vJXFpXLQw)  
 - Async/Await
